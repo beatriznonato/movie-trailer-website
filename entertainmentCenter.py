@@ -94,7 +94,7 @@ detonaRalph = media.Movie(
     "Animação"
 )
 
-# list generator
+# Objects to popular the site with data
 movies = [
     extraordinario,
     belezaOculta,
