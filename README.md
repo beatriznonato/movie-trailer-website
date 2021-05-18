@@ -21,5 +21,11 @@ To watch the Trailer, just click on the desired movie, a window with the trailer
 
 ![](img/trailer.png)
 
+## How to Run
+- Clone this repository
+- Open the project folder
+- Double-click on the <i>fresh_tomatoes.html</i> file, as soon afterwards you will be redirected to the browser with the application running.
+
 ### License
-MIT © Beatriz Nonato
+
+MIT © Beatriz Nonato :woman_technologist:
