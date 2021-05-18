@@ -1,8 +1,8 @@
-# Movie Trailer Website 
+# Movie Trailer Website :film_projector:
 
 ![pep8](https://img.shields.io/badge/pep8online-compliant-brightgreen.svg)
 
-:film_projector: Trailer Gallery developed in Python.
+Trailer Gallery developed in Python.
 
 ### Website Content
 
